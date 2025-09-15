@@ -26,7 +26,7 @@
     * 생성된 텐서를 `server.py`로 전송하고, 서버로부터 최종 예측 결과를 수신하여 출력합니다.
 * **실행 방법**:
     ```bash
-    python jetson.py
+    python3 jetson.py
     ```
 
 ### 3. `model_utils.py`
